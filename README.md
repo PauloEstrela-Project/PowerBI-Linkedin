@@ -2,8 +2,6 @@
 
 Esse Dashboard foi realizado como Atividade da AC 1 Software Product: Analysis, Specification, Project & Implementation ADS 5A (Faculdade Impacta).
 
-Nesse Dashboard é possivel acompanhar:
-
 O projeto tem como objetivo centralizar e analisar dados de compra, venda, lucro e status de pagamento, proporcionando uma visão abrangente e estratégica do desempenho do negócio. Através de dashboards interativos, é possível acompanhar:
 
 Total de Compra de Produtos: Monitoramento dos investimentos em estoque.
